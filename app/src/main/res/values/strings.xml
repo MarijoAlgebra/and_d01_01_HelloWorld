@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="string_hello">Hello World</string>
+    <string name="b_click_me_text">Click Me!</string>
+    <string name="b_turn_on_text">Turn On!</string>
+    <string name="b_turn_off_text">Turn Off</string>
+    <string name="b_shut_down_text">Shut down</string>
+</resources>
